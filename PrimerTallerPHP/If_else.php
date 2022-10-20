@@ -1,5 +1,4 @@
 <?php
-<<<<<<< HEAD
 //Salida "Hello World" si es mayor a que b.
 $a = 50;
 $b = 10;
@@ -41,13 +40,5 @@ elseif($a > $b) {
 } 
 else{
   echo "3";
-=======
-$t = 15;
-
-if ($t < "20") {
-  echo "20 es mayor que $t!";
-} else {
-  echo "$t es mayor que 20!";
->>>>>>> origin/main
 }
 ?>
